@@ -16,9 +16,11 @@ This website was built from scratch and has added functionality included such as
 ## Usage
 
 Added hover and link to the NAV BAR
+
 ![NAV BAR](https://github.com/FROMERO63/myprofile/assets/134673364/b23f2ac5-2825-4d6b-bc2c-9ba6696cf74c)
 
 Added Media Screen to make the site flexible with different screen and device sizes
+
 ![MEDIA SCREEN](https://github.com/FROMERO63/myprofile/assets/134673364/ee67d37e-b555-40a0-b9dc-c81216919948)
 
 

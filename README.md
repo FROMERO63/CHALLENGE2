@@ -30,5 +30,5 @@ I used Mozilla developer for a lot of help with this assignment. I also referenc
 https://developer.mozilla.ord
 
 ## Tests
-To test this site, go to the website to view
+To test this site, go to the website to view https://fromero63.github.io/myprofile/
 
